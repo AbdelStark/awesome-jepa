@@ -138,6 +138,8 @@ The canonical JEPA line from Meta FAIR.
 - **[VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model](https://arxiv.org/abs/2602.10098)** (Jingwen Sun et al., 2026). Couples a vision-language-action model with a JEPA latent world model.
 - **[Causal-JEPA: Learning World Models through Object-Level Latent Masking](https://arxiv.org/abs/2602.11389)** (Heejeong Nam et al., 2026). Learns object-centric world models with latent masking.
 - **[Learning Invariant Visual Representations for Planning with Joint-Embedding Predictive World Models](https://arxiv.org/abs/2602.18639)** (Leonardo F. Toso et al., 2026). Studies invariant representations for planning with JEPA world models.
+- **[LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels](https://arxiv.org/abs/2603.19312)** (Lucas Maes et al., 2026). Learns action-conditioned latent world models directly from pixels with a two-term JEPA objective using SIGReg for anti-collapse. [code](https://github.com/lucas-maes/le-wm) · [website](https://le-wm.github.io/) · [checkpoints and data](https://huggingface.co/collections/quentinll/lewm)
+- **[stable-worldmodel: A Platform for Reproducible World Modeling Research and Evaluation](https://arxiv.org/abs/2605.21800)** (Lucas Maes et al., 2026). Provides a standardized world-model research stack with data conversion, baselines, planning solvers, and controllable evaluation environments. [code](https://github.com/galilai-group/stable-worldmodel) · [docs](https://galilai-group.github.io/stable-worldmodel/)
 
 ## Models and Weights
 
@@ -151,6 +153,8 @@ The canonical JEPA line from Meta FAIR.
 - **[facebookresearch/jepa](https://github.com/facebookresearch/jepa)**. Official PyTorch codebase for V-JEPA.
 - **[facebookresearch/vjepa2](https://github.com/facebookresearch/vjepa2)**. Official PyTorch codebase and models for V-JEPA 2.
 - **[galilai-group/lejepa](https://github.com/galilai-group/lejepa)**. Official implementation of LeJEPA and the SIGReg objective.
+- **[lucas-maes/le-wm](https://github.com/lucas-maes/le-wm)**. Official codebase for LeWorldModel, with training and evaluation configs for the SIGReg-stabilized JEPA world model.
+- **[galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel)**. Open-source platform used by LeWorldModel for environment management, data loading, planning, and evaluation.
 - **[Transformers: I-JEPA](https://huggingface.co/docs/transformers/en/model_doc/ijepa)** and **[Transformers: V-JEPA 2](https://huggingface.co/docs/transformers/en/model_doc/vjepa2)**. Hugging Face integrations with `AutoModel` support.
 - **[keon/jepa](https://github.com/keon/jepa)**. A community PyTorch reimplementation useful for learning the I-JEPA objective.
 
