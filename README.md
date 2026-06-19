@@ -188,6 +188,8 @@ Physical-reasoning benchmarks released with V-JEPA 2.
 - **[A Path Towards Autonomous Machine Intelligence](https://www.youtube.com/watch?v=OKkEdTchsiE)** (Yann LeCun, 2023).
 - **[V-JEPA: Revisiting Feature Prediction (Explained)](https://www.youtube.com/watch?v=7UkJPwz_N_0)** (Yannic Kilcher, 2024).
 - **[JEPA, A Path Towards Autonomous Machine Intelligence (Paper Explained)](https://www.youtube.com/watch?v=jSdHmImyUjk)** (Yannic Kilcher, 2022).
+- **[Yann LeCun's $1B Bet Against LLMs [Part 1]](https://www.youtube.com/watch?v=kYkIdXwW2AE)** (Welch Labs, 2026). Welch Labs interviewing Yann, with high-level explanations mixed in.
+- **[Yann LeCun's $1B Bet Against LLMs [Part 2]](https://www.youtube.com/watch?v=v_jDvpEGTIg)** (Welch Labs, 2026). Welch Labs interviewing Yann, with high-level explanations mixed in.
 
 ## Courses
 
@@ -204,6 +206,7 @@ Physical-reasoning benchmarks released with V-JEPA 2.
 - **[Meta AI's I-JEPA, Explained](https://encord.com/blog/i-jepa-explained/)** (Encord, 2023).
 - **[A Guided Tour of the Joint-Embedding Predictive Architecture](https://patricknicolas.substack.com/p/a-guided-tour-of-the-joint-embedding)** (Patrick Nicolas, 2026).
 - **[Yann LeCun's new venture is a contrarian bet against large language models](https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/)** (MIT Technology Review, 2026).
+
 
 ## Contributing
 
