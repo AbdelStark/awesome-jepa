@@ -163,6 +163,7 @@ The canonical JEPA line from Meta FAIR.
 - **[Transformers: I-JEPA](https://huggingface.co/docs/transformers/en/model_doc/ijepa)** and **[Transformers: V-JEPA 2](https://huggingface.co/docs/transformers/en/model_doc/vjepa2)**. Hugging Face integrations with `AutoModel` support.
 - **[keon/jepa](https://github.com/keon/jepa)**. A community PyTorch reimplementation useful for learning the I-JEPA objective.
 - **[AbdelStark/ProvableWorldModel](https://github.com/AbdelStark/ProvableWorldModel)**. A commit-and-audit proof system for deterministic, quantized inference of a JEPA-style world model (LeWorldModel), enabling verifiable AI inference with zero-knowledge proofs. [website](https://abdelstark.github.io/ProvableWorldModel/)
+- **[Hanno-Labs/langset](https://github.com/Hanno-Labs/langset)**. A library that fine-tunes a pretrained LLM into a JEPA world model by emitting discrete FSQ latents in its own token stream, trained against an EMA-twin (or SIGReg) target and co-trained with next-token cross-entropy, with autoregressive latent rollout and a learned STOP.
 
 ## Datasets
 
