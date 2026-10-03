@@ -132,7 +132,7 @@ The canonical JEPA line from Meta FAIR.
 - **[JEPA-T: Joint-Embedding Predictive Architecture with Text Fusion for Image Generation](https://arxiv.org/abs/2510.00974)** (Siheng Wan et al., 2025). Adds text conditioning to a JEPA for image generation.
 
 ## World Models, Robotics, and Planning
-
+- **[Improving Diffusion Planners by Self-Supervised Action Gating with Energies](https://arxiv.org/abs/2603.02650)** (Lu et al., 2026). Using JEPA to improve diffusion-based planners through self-supervised action gating using learned energy functions. [code](https://github.com/edluyuan/sage)
 - **[What Drives Success in Physical Planning with Joint-Embedding Predictive World Models?](https://arxiv.org/abs/2512.24497)** (Basile Terver et al., 2025). A study of the design factors behind JEPA world models for planning. [weights](https://huggingface.co/facebook/jepa-wms)
 - **[ACT-JEPA: Novel Joint-Embedding Predictive Architecture for Efficient Policy Representation Learning](https://arxiv.org/abs/2501.14622)** (Aleksandar Vujinovic et al., 2025). A JEPA for learning policy representations.
 - **[Value-guided action planning with JEPA world models](https://arxiv.org/abs/2601.00844)** (Matthieu Destrade et al., 2025). Plans actions by guiding search with learned values over JEPA predictions.
